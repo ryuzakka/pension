@@ -24,7 +24,7 @@
 	<div id="second">
 		<div id="left">
 			<a href="../main/index.jsp"><img src="../img/logo.png" width="35px"></a>
-			FUNNY펜션
+			류달펜션
 		</div>
 		<div id="right">
 			<ul class="menu">
